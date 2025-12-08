@@ -178,7 +178,7 @@ namespace AgendaMedica.UI
         private void btnRegresar_Click(object sender, EventArgs e)
         {
             this.Close();
-            new FrmLogin().Show();
+            new FrmMenu().Show();
         }
 
         private void Limpiar()

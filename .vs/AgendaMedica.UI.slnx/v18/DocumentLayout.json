@@ -3,16 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\agendamedica.ui\\frmespecialidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|solutionrelative:agendamedica.ui\\frmespecialidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|c:\\users\\jeshl\\onedrive\\documentos\\vs\\all\\proyecto_pihero\\agendamedica.ui\\agendamedica.ui\\frmpacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|solutionrelative:agendamedica.ui\\frmpacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|c:\\users\\jeshl\\onedrive\\documentos\\vs\\all\\proyecto_pihero\\agendamedica.ui\\agendamedica.ui\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|solutionrelative:agendamedica.ui\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|c:\\users\\jeshl\\onedrive\\documentos\\vs\\all\\proyecto_pihero\\agendamedica.ui\\agendamedica.ui\\frmespecialidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|solutionrelative:agendamedica.ui\\frmespecialidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|c:\\users\\jeshl\\onedrive\\documentos\\vs\\all\\proyecto_pihero\\agendamedica.ui\\agendamedica.ui\\frmagenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|solutionrelative:agendamedica.ui\\frmagenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|c:\\users\\jeshl\\onedrive\\documentos\\vs\\all\\proyecto_pihero\\agendamedica.ui\\agendamedica.ui\\frmespecialidades.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|solutionrelative:agendamedica.ui\\frmespecialidades.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|c:\\users\\jeshl\\onedrive\\documentos\\vs\\all\\proyecto_pihero\\agendamedica.ui\\agendamedica.ui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|solutionrelative:agendamedica.ui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|c:\\users\\jeshl\\onedrive\\documentos\\vs\\all\\proyecto_pihero\\agendamedica.ui\\agendamedica.ui\\frmmedicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|solutionrelative:agendamedica.ui\\frmmedicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|c:\\users\\jeshl\\onedrive\\documentos\\vs\\all\\proyecto_pihero\\agendamedica.ui\\agendamedica.ui\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|solutionrelative:agendamedica.ui\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|c:\\users\\jeshl\\onedrive\\documentos\\vs\\all\\proyecto_pihero\\agendamedica.ui\\agendamedica.ui\\frmmedicos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|solutionrelative:agendamedica.ui\\frmmedicos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|c:\\users\\jeshl\\onedrive\\documentos\\vs\\all\\proyecto_pihero\\agendamedica.ui\\agendamedica.ui\\frmagenda.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|solutionrelative:agendamedica.ui\\frmagenda.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|c:\\users\\jeshl\\onedrive\\documentos\\vs\\all\\proyecto_pihero\\agendamedica.ui\\agendamedica.ui\\frmespecialidades.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|solutionrelative:agendamedica.ui\\frmespecialidades.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|c:\\users\\jeshl\\onedrive\\documentos\\vs\\all\\proyecto_pihero\\agendamedica.ui\\agendamedica.ui\\frmmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,28 +59,8 @@
       "RelativeMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|solutionrelative:agendamedica.ui\\frmmedicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|c:\\users\\jeshl\\onedrive\\documentos\\vs\\all\\proyecto_pihero\\agendamedica.ui\\agendamedica.ui\\frmmedicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|solutionrelative:agendamedica.ui\\frmmedicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|c:\\users\\jeshl\\onedrive\\documentos\\vs\\all\\proyecto_pihero\\agendamedica.ui\\agendamedica.ui\\frmespecialidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|solutionrelative:agendamedica.ui\\frmespecialidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|c:\\users\\jeshl\\onedrive\\documentos\\vs\\all\\proyecto_pihero\\agendamedica.ui\\agendamedica.ui\\frmagenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|solutionrelative:agendamedica.ui\\frmagenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{47AB4CD2-424D-4D82-8152-C890EF1933B6}|AgendaMedica.BL\\AgendaMedica.BL.csproj|c:\\users\\jeshl\\onedrive\\documentos\\vs\\all\\proyecto_pihero\\agendamedica.ui\\agendamedica.bl\\medicobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47AB4CD2-424D-4D82-8152-C890EF1933B6}|AgendaMedica.BL\\AgendaMedica.BL.csproj|solutionrelative:agendamedica.bl\\medicobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|c:\\users\\jeshl\\onedrive\\documentos\\vs\\all\\proyecto_pihero\\agendamedica.ui\\agendamedica.ui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|solutionrelative:agendamedica.ui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|c:\\users\\jeshl\\onedrive\\documentos\\vs\\all\\proyecto_pihero\\agendamedica.ui\\agendamedica.ui\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|solutionrelative:agendamedica.ui\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\agendamedica.ui\\frmagenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -69,18 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A3ACA0A9-79B9-455E-968B-F2BC498FE98B}|AgendaMedica.DAL\\AgendaMedica.DAL.csproj|c:\\users\\jeshl\\onedrive\\documentos\\vs\\all\\proyecto_pihero\\agendamedica.ui\\agendamedica.dal\\especialidaddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3ACA0A9-79B9-455E-968B-F2BC498FE98B}|AgendaMedica.DAL\\AgendaMedica.DAL.csproj|solutionrelative:agendamedica.dal\\especialidaddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|c:\\users\\jeshl\\onedrive\\documentos\\vs\\all\\proyecto_pihero\\agendamedica.ui\\agendamedica.ui\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|solutionrelative:agendamedica.ui\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|c:\\users\\jeshl\\onedrive\\documentos\\vs\\all\\proyecto_pihero\\agendamedica.ui\\agendamedica.ui\\frmpacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|solutionrelative:agendamedica.ui\\frmpacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\agendamedica.ui\\frmespecialidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4DCC7071-D3E7-B03E-977A-E60AF11927DB}|AgendaMedica.UI\\AgendaMedica.UI.csproj|solutionrelative:agendamedica.ui\\frmespecialidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47AB4CD2-424D-4D82-8152-C890EF1933B6}|AgendaMedica.BL\\AgendaMedica.BL.csproj|c:\\users\\jeshl\\onedrive\\documentos\\vs\\all\\proyecto_pihero\\agendamedica.ui\\agendamedica.bl\\pacientebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -114,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "FrmAgenda.Designer.cs",
               "DocumentMoniker": "C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\AgendaMedica.UI\\FrmAgenda.Designer.cs",
               "RelativeDocumentMoniker": "AgendaMedica.UI\\FrmAgenda.Designer.cs",
@@ -147,43 +147,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 0,
               "Title": "FrmEspecialidades.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\AgendaMedica.UI\\FrmEspecialidades.cs",
               "RelativeDocumentMoniker": "AgendaMedica.UI\\FrmEspecialidades.cs",
               "ToolTip": "C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\AgendaMedica.UI\\FrmEspecialidades.cs [Dise\u00F1o]",
               "RelativeToolTip": "AgendaMedica.UI\\FrmEspecialidades.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T04:12:57.795Z"
+              "WhenOpened": "2025-12-08T04:12:57.795Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "FrmEspecialidades.cs",
               "DocumentMoniker": "C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\AgendaMedica.UI\\FrmEspecialidades.cs",
               "RelativeDocumentMoniker": "AgendaMedica.UI\\FrmEspecialidades.cs",
               "ToolTip": "C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\AgendaMedica.UI\\FrmEspecialidades.cs",
               "RelativeToolTip": "AgendaMedica.UI\\FrmEspecialidades.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAcwLUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T04:13:09.099Z"
+              "WhenOpened": "2025-12-08T04:13:09.099Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "FrmEspecialidades.Designer.cs",
               "DocumentMoniker": "C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\AgendaMedica.UI\\FrmEspecialidades.Designer.cs",
               "RelativeDocumentMoniker": "AgendaMedica.UI\\FrmEspecialidades.Designer.cs",
               "ToolTip": "C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\AgendaMedica.UI\\FrmEspecialidades.Designer.cs",
               "RelativeToolTip": "AgendaMedica.UI\\FrmEspecialidades.Designer.cs",
-              "ViewState": "AgIAANIAAAAAAAAAAAAowBEBAAABAAAAAAAAAA==",
+              "ViewState": "AgIAANgAAAAAAAAAAAAowBEBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-08T04:13:00.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "EspecialidadBL.cs",
               "DocumentMoniker": "C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\AgendaMedica.BL\\EspecialidadBL.cs",
               "RelativeDocumentMoniker": "AgendaMedica.BL\\EspecialidadBL.cs",
@@ -195,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "EspecialidadDAL.cs",
               "DocumentMoniker": "C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\AgendaMedica.DAL\\EspecialidadDAL.cs",
               "RelativeDocumentMoniker": "AgendaMedica.DAL\\EspecialidadDAL.cs",
@@ -207,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "MedicoDAL.cs",
               "DocumentMoniker": "C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\AgendaMedica.DAL\\MedicoDAL.cs",
               "RelativeDocumentMoniker": "AgendaMedica.DAL\\MedicoDAL.cs",
@@ -219,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "FrmMedicos.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\AgendaMedica.UI\\FrmMedicos.cs",
               "RelativeDocumentMoniker": "AgendaMedica.UI\\FrmMedicos.cs",
@@ -231,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "FrmMedicos.Designer.cs",
               "DocumentMoniker": "C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\AgendaMedica.UI\\FrmMedicos.Designer.cs",
               "RelativeDocumentMoniker": "AgendaMedica.UI\\FrmMedicos.Designer.cs",
@@ -244,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "FrmMenu.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\AgendaMedica.UI\\FrmMenu.cs",
               "RelativeDocumentMoniker": "AgendaMedica.UI\\FrmMenu.cs",
@@ -256,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "FrmMenu.Designer.cs",
               "DocumentMoniker": "C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\AgendaMedica.UI\\FrmMenu.Designer.cs",
               "RelativeDocumentMoniker": "AgendaMedica.UI\\FrmMenu.Designer.cs",
@@ -269,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "FrmMenu.cs",
               "DocumentMoniker": "C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\AgendaMedica.UI\\FrmMenu.cs",
               "RelativeDocumentMoniker": "AgendaMedica.UI\\FrmMenu.cs",
@@ -277,36 +279,38 @@
               "RelativeToolTip": "AgendaMedica.UI\\FrmMenu.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAuwEsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T03:37:46.396Z"
+              "WhenOpened": "2025-12-08T03:37:46.396Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "FrmLogin.cs",
               "DocumentMoniker": "C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\AgendaMedica.UI\\FrmLogin.cs",
               "RelativeDocumentMoniker": "AgendaMedica.UI\\FrmLogin.cs",
               "ToolTip": "C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\AgendaMedica.UI\\FrmLogin.cs",
               "RelativeToolTip": "AgendaMedica.UI\\FrmLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T03:36:47.16Z"
+              "WhenOpened": "2025-12-08T03:36:47.16Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "FrmMedicos.cs",
               "DocumentMoniker": "C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\AgendaMedica.UI\\FrmMedicos.cs",
               "RelativeDocumentMoniker": "AgendaMedica.UI\\FrmMedicos.cs",
               "ToolTip": "C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\AgendaMedica.UI\\FrmMedicos.cs",
               "RelativeToolTip": "AgendaMedica.UI\\FrmMedicos.cs",
-              "ViewState": "AgIAACUBAAAAAAAAAAAiwD8BAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAB0BAAAAAAAAAAAUwCcBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-08T03:36:13.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 1,
               "Title": "FrmPacientes.cs",
               "DocumentMoniker": "C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\AgendaMedica.UI\\FrmPacientes.cs",
               "RelativeDocumentMoniker": "AgendaMedica.UI\\FrmPacientes.cs",
@@ -314,7 +318,8 @@
               "RelativeToolTip": "AgendaMedica.UI\\FrmPacientes.cs",
               "ViewState": "AgIAALkAAAAAAAAAAAAAwMgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T03:35:58.173Z"
+              "WhenOpened": "2025-12-08T03:35:58.173Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -330,13 +335,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 2,
               "Title": "FrmUsuarios.cs",
               "DocumentMoniker": "C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\AgendaMedica.UI\\FrmUsuarios.cs",
               "RelativeDocumentMoniker": "AgendaMedica.UI\\FrmUsuarios.cs",
               "ToolTip": "C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\AgendaMedica.UI\\FrmUsuarios.cs",
               "RelativeToolTip": "AgendaMedica.UI\\FrmUsuarios.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAcwEgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-08T03:35:02.002Z",
               "EditorCaption": ""
@@ -378,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "MedicoBL.cs",
               "DocumentMoniker": "C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\AgendaMedica.BL\\MedicoBL.cs",
               "RelativeDocumentMoniker": "AgendaMedica.BL\\MedicoBL.cs",
@@ -402,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "AgendaBL.cs",
               "DocumentMoniker": "C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\AgendaMedica.BL\\AgendaBL.cs",
               "RelativeDocumentMoniker": "AgendaMedica.BL\\AgendaBL.cs",
@@ -414,26 +419,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "FrmAgenda.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\AgendaMedica.UI\\FrmAgenda.cs",
               "RelativeDocumentMoniker": "AgendaMedica.UI\\FrmAgenda.cs",
               "ToolTip": "C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\AgendaMedica.UI\\FrmAgenda.cs [Dise\u00F1o]",
               "RelativeToolTip": "AgendaMedica.UI\\FrmAgenda.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T03:08:00.962Z"
+              "WhenOpened": "2025-12-08T03:08:00.962Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "FrmAgenda.cs",
               "DocumentMoniker": "C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\AgendaMedica.UI\\FrmAgenda.cs",
               "RelativeDocumentMoniker": "AgendaMedica.UI\\FrmAgenda.cs",
               "ToolTip": "C:\\Users\\jeshl\\OneDrive\\Documentos\\VS\\all\\proyecto_pihero\\AgendaMedica.UI\\AgendaMedica.UI\\FrmAgenda.cs",
               "RelativeToolTip": "AgendaMedica.UI\\FrmAgenda.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAADwv+4BAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAowO4BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-08T02:31:40.141Z"
+              "WhenOpened": "2025-12-08T02:31:40.141Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
