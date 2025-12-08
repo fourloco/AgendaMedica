@@ -492,6 +492,7 @@ namespace AgendaMedica.UI
             }
         }
 
+
         private void BtnGuardar_Click(object sender, EventArgs e)
         {
             try

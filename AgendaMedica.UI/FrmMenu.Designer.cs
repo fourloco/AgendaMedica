@@ -29,7 +29,6 @@
             btnGestionMedicos = new Button();
             btnGestionUsuarios = new Button();
             btnPacientes = new Button();
-            btnMedicos = new Button();
             btnCitas = new Button();
             btnSalir = new Button();
             lblUsuario = new Label();
@@ -38,8 +37,8 @@
             panelAdministracion = new Panel();
             lblAdministracion = new Label();
             panelOperaciones = new Panel();
-            lblOperaciones = new Label();
             Especialidades = new Button();
+            lblOperaciones = new Label();
             panelHeader.SuspendLayout();
             panelAdministracion.SuspendLayout();
             panelOperaciones.SuspendLayout();
@@ -93,22 +92,6 @@
             btnPacientes.UseVisualStyleBackColor = false;
             btnPacientes.Click += btnPacientes_Click;
             // 
-            // btnMedicos
-            // 
-            btnMedicos.BackColor = Color.FromArgb(46, 204, 113);
-            btnMedicos.Cursor = Cursors.Hand;
-            btnMedicos.FlatStyle = FlatStyle.Flat;
-            btnMedicos.Font = new Font("Segoe UI", 10F, FontStyle.Bold);
-            btnMedicos.ForeColor = Color.White;
-            btnMedicos.Location = new Point(18, 110);
-            btnMedicos.Margin = new Padding(4, 3, 4, 3);
-            btnMedicos.Name = "btnMedicos";
-            btnMedicos.Size = new Size(257, 46);
-            btnMedicos.TabIndex = 2;
-            btnMedicos.Text = "Médicos";
-            btnMedicos.UseVisualStyleBackColor = false;
-            btnMedicos.Click += btnMedicos_Click;
-            // 
             // btnCitas
             // 
             btnCitas.BackColor = Color.FromArgb(46, 204, 113);
@@ -116,7 +99,7 @@
             btnCitas.FlatStyle = FlatStyle.Flat;
             btnCitas.Font = new Font("Segoe UI", 10F, FontStyle.Bold);
             btnCitas.ForeColor = Color.White;
-            btnCitas.Location = new Point(18, 167);
+            btnCitas.Location = new Point(18, 156);
             btnCitas.Margin = new Padding(4, 3, 4, 3);
             btnCitas.Name = "btnCitas";
             btnCitas.Size = new Size(257, 46);
@@ -154,7 +137,7 @@
             // 
             // panelHeader
             // 
-            panelHeader.BackColor = Color.FromArgb(41, 128, 185);
+            panelHeader.BackColor = Color.FromArgb(0, 128, 185);
             panelHeader.Controls.Add(lblTitulo);
             panelHeader.Controls.Add(lblUsuario);
             panelHeader.Dock = DockStyle.Top;
@@ -206,13 +189,28 @@
             panelOperaciones.Controls.Add(Especialidades);
             panelOperaciones.Controls.Add(lblOperaciones);
             panelOperaciones.Controls.Add(btnPacientes);
-            panelOperaciones.Controls.Add(btnMedicos);
             panelOperaciones.Controls.Add(btnCitas);
             panelOperaciones.Location = new Point(373, 104);
             panelOperaciones.Margin = new Padding(4, 3, 4, 3);
             panelOperaciones.Name = "panelOperaciones";
-            panelOperaciones.Size = new Size(292, 277);
+            panelOperaciones.Size = new Size(292, 221);
             panelOperaciones.TabIndex = 2;
+            // 
+            // Especialidades
+            // 
+            Especialidades.BackColor = Color.FromArgb(46, 204, 113);
+            Especialidades.Cursor = Cursors.Hand;
+            Especialidades.FlatStyle = FlatStyle.Flat;
+            Especialidades.Font = new Font("Segoe UI", 10F, FontStyle.Bold);
+            Especialidades.ForeColor = Color.White;
+            Especialidades.Location = new Point(18, 104);
+            Especialidades.Margin = new Padding(4, 3, 4, 3);
+            Especialidades.Name = "Especialidades";
+            Especialidades.Size = new Size(257, 46);
+            Especialidades.TabIndex = 4;
+            Especialidades.Text = "Especialidades";
+            Especialidades.UseVisualStyleBackColor = false;
+            Especialidades.Click += btnEspecialidades_Click;
             // 
             // lblOperaciones
             // 
@@ -225,22 +223,6 @@
             lblOperaciones.Size = new Size(95, 20);
             lblOperaciones.TabIndex = 0;
             lblOperaciones.Text = "Operaciones";
-            // 
-            // Especialidades
-            // 
-            Especialidades.BackColor = Color.FromArgb(46, 204, 113);
-            Especialidades.Cursor = Cursors.Hand;
-            Especialidades.FlatStyle = FlatStyle.Flat;
-            Especialidades.Font = new Font("Segoe UI", 10F, FontStyle.Bold);
-            Especialidades.ForeColor = Color.White;
-            Especialidades.Location = new Point(18, 219);
-            Especialidades.Margin = new Padding(4, 3, 4, 3);
-            Especialidades.Name = "Especialidades";
-            Especialidades.Size = new Size(257, 46);
-            Especialidades.TabIndex = 4;
-            Especialidades.Text = "Especialidades";
-            Especialidades.UseVisualStyleBackColor = false;
-            Especialidades.Click += btnEspecialidades_Click;
             // 
             // FrmMenu
             // 
