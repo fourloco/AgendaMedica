@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AgendaMedica.UI": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}

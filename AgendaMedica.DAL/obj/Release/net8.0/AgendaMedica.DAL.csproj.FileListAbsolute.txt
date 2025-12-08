@@ -1,0 +1,14 @@
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.DAL\bin\Release\net8.0\AgendaMedica.DAL.dll.config
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.DAL\bin\Release\net8.0\AgendaMedica.DAL.deps.json
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.DAL\bin\Release\net8.0\AgendaMedica.DAL.dll
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.DAL\bin\Release\net8.0\AgendaMedica.DAL.pdb
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.DAL\obj\Release\net8.0\AgendaMedica.DAL.csproj.AssemblyReference.cache
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.DAL\obj\Release\net8.0\AgendaMedica.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.DAL\obj\Release\net8.0\AgendaMedica.DAL.AssemblyInfoInputs.cache
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.DAL\obj\Release\net8.0\AgendaMedica.DAL.AssemblyInfo.cs
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.DAL\obj\Release\net8.0\AgendaMedica.DAL.csproj.CoreCompileInputs.cache
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.DAL\obj\Release\net8.0\AgendaMedica.DAL.sourcelink.json
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.DAL\obj\Release\net8.0\AgendaMedica.DAL.dll
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.DAL\obj\Release\net8.0\refint\AgendaMedica.DAL.dll
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.DAL\obj\Release\net8.0\AgendaMedica.DAL.pdb
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.DAL\obj\Release\net8.0\ref\AgendaMedica.DAL.dll

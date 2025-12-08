@@ -1,0 +1,17 @@
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.BL\bin\Debug\net8.0\AgendaMedica.BL.deps.json
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.BL\bin\Debug\net8.0\AgendaMedica.BL.dll
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.BL\bin\Debug\net8.0\AgendaMedica.BL.pdb
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.BL\bin\Debug\net8.0\AgendaMedica.DAL.dll
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.BL\bin\Debug\net8.0\AgendaMedica.DAL.pdb
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.BL\bin\Debug\net8.0\AgendaMedica.DAL.dll.config
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.BL\obj\Debug\net8.0\AgendaMedica.BL.csproj.AssemblyReference.cache
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.BL\obj\Debug\net8.0\AgendaMedica.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.BL\obj\Debug\net8.0\AgendaMedica.BL.AssemblyInfoInputs.cache
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.BL\obj\Debug\net8.0\AgendaMedica.BL.AssemblyInfo.cs
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.BL\obj\Debug\net8.0\AgendaMedica.BL.csproj.CoreCompileInputs.cache
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.BL\obj\Debug\net8.0\AgendaMedica.BL.sourcelink.json
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.BL\obj\Debug\net8.0\AgendaMe.AD05F0CC.Up2Date
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.BL\obj\Debug\net8.0\AgendaMedica.BL.dll
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.BL\obj\Debug\net8.0\refint\AgendaMedica.BL.dll
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.BL\obj\Debug\net8.0\AgendaMedica.BL.pdb
+C:\Users\jeshl\OneDrive\Documentos\VS\all\proyecto_pihero\AgendaMedica.UI\AgendaMedica.BL\obj\Debug\net8.0\ref\AgendaMedica.BL.dll
